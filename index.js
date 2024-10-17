@@ -26,3 +26,4 @@ app.listen(5500,function(erro){
         console.log("Tudo certo parceiro, servidor iniciado.")
     }
 })
+//Código alteraro
