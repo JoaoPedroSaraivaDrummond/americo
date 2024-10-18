@@ -25,4 +25,4 @@ app.listen(5500,function(erro){
     }else{
         console.log("Tudo certo parceiro, servidor iniciado.")
     }
-})
+})// MODIFICADO
